@@ -1,16 +1,16 @@
 {
-  "tag": "v1.4.0",
-  "url": "https://github.com/agentur-wildfire/firepress-dist/releases/tag/v1.4.0",
-  "generated": "2026-11-04T11:47:08Z",
+  "tag": "v1.4.1",
+  "url": "https://github.com/agentur-wildfire/firepress-dist/releases/tag/v1.4.1",
+  "generated": "2026-11-05T12:02:59Z",
   "artifacts": {
     "firepress-pagebuilder": {
-      "version": "1.4.0",
-      "package": "https://github.com/agentur-wildfire/firepress-dist/releases/download/v1.4.0/firepress-pagebuilder.zip",
+      "version": "1.4.1",
+      "package": "https://github.com/agentur-wildfire/firepress-dist/releases/download/v1.4.1/firepress-pagebuilder.zip",
       "requires_php": "8.2"
     },
     "firepress-theme": {
-      "version": "1.4.0",
-      "package": "https://github.com/agentur-wildfire/firepress-dist/releases/download/v1.4.0/firepress-theme.zip",
+      "version": "1.4.1",
+      "package": "https://github.com/agentur-wildfire/firepress-dist/releases/download/v1.4.1/firepress-theme.zip",
       "requires_php": "8.2"
     }
   }
